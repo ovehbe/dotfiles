@@ -1,0 +1,1 @@
+xinput --set-prop 'MOSART Semi. Orbit Wireless Mobile Trackball' 'libinput Scroll Method Enabled' 0 0 0 && xinput --set-prop 'MOSART Semi. Orbit Wireless Mobile Trackball' 'libinput Button Scrolling Button' 2
