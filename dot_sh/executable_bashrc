@@ -140,3 +140,6 @@ export PATH='/home/ovehbe/.local/bin:$PATH'
 #I dont know
 export PATH="/usr/bin:$PATH"
 
+#
+# This is an old backup of bashrc, do not use this one.
+#
